@@ -7,10 +7,6 @@ redirect_from:
   - /articles/securing-your-account-with-two-factor-authentication-2fa
   - /github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa/
 versions:
-  fpt: '*'
-  ghes: '*'
-topics:
-  - 2FA
 children:
   - /about-two-factor-authentication
   - /configuring-two-factor-authentication
